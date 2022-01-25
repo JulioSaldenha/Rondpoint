@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="62.263596mm"
+   height="94.157516mm"
+   viewBox="0 0 62.263596 94.157517"
+   version="1.1"
+   id="svg2248"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="cedilla.svg">
+  <defs
+     id="defs2242" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-352.07235"
+     inkscape:cy="186.1259"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1836"
+     inkscape:window-height="1193"
+     inkscape:window-x="44"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata2245">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-72.433676,-94.391169)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:12;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2496"
+       sodipodi:type="arc"
+       sodipodi:cx="105.80064"
+       sodipodi:cy="127.75595"
+       sodipodi:rx="27.366961"
+       sodipodi:ry="27.366961"
+       sodipodi:start="0.52359878"
+       sodipodi:end="5.7595865"
+       sodipodi:arc-type="arc"
+       d="M 129.50112,141.43943 A 27.366961,27.366961 0 0 1 98.717546,154.1904 27.366961,27.366961 0 0 1 78.433676,127.75595 27.366961,27.366961 0 0 1 98.717545,101.3215 27.366961,27.366961 0 0 1 129.50112,114.07247"
+       sodipodi:open="true" />
+    <path
+       sodipodi:open="true"
+       d="m -155.16037,105.60729 a 13.7,13.7 0 0 1 -10.15418,13.23319 13.7,13.7 0 0 1 -15.41036,-6.38319 13.7,13.7 0 0 1 2.17718,-16.53736"
+       sodipodi:arc-type="arc"
+       sodipodi:end="3.9269908"
+       sodipodi:start="0"
+       sodipodi:ry="13.7"
+       sodipodi:rx="13.7"
+       sodipodi:cy="105.60729"
+       sodipodi:cx="-168.86037"
+       sodipodi:type="arc"
+       transform="rotate(-90)"
+       id="path831"
+       style="fill:none;stroke:#000000;stroke-width:12" />
+  </g>
+</svg>
